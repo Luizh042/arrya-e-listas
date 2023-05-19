@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Arraya_e_Lista/1.0.0": {
+        "runtime": {
+          "Arraya_e_Lista.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arraya_e_Lista/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

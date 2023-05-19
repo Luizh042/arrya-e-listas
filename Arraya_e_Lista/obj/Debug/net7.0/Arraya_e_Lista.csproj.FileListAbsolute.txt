@@ -1,0 +1,15 @@
+C:\Users\Xtreme Gamer\projetos\arrya-e-listas\Arraya_e_Lista\bin\Debug\net7.0\Arraya_e_Lista.deps.json
+C:\Users\Xtreme Gamer\projetos\arrya-e-listas\Arraya_e_Lista\bin\Debug\net7.0\Arraya_e_Lista.dll
+C:\Users\Xtreme Gamer\projetos\arrya-e-listas\Arraya_e_Lista\bin\Debug\net7.0\Arraya_e_Lista.pdb
+C:\Users\Xtreme Gamer\projetos\arrya-e-listas\Arraya_e_Lista\obj\Debug\net7.0\Arraya_e_Lista.csproj.AssemblyReference.cache
+C:\Users\Xtreme Gamer\projetos\arrya-e-listas\Arraya_e_Lista\obj\Debug\net7.0\Arraya_e_Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xtreme Gamer\projetos\arrya-e-listas\Arraya_e_Lista\obj\Debug\net7.0\Arraya_e_Lista.AssemblyInfoInputs.cache
+C:\Users\Xtreme Gamer\projetos\arrya-e-listas\Arraya_e_Lista\obj\Debug\net7.0\Arraya_e_Lista.AssemblyInfo.cs
+C:\Users\Xtreme Gamer\projetos\arrya-e-listas\Arraya_e_Lista\obj\Debug\net7.0\Arraya_e_Lista.csproj.CoreCompileInputs.cache
+C:\Users\Xtreme Gamer\projetos\arrya-e-listas\Arraya_e_Lista\obj\Debug\net7.0\Arraya_e_Lista.dll
+C:\Users\Xtreme Gamer\projetos\arrya-e-listas\Arraya_e_Lista\obj\Debug\net7.0\refint\Arraya_e_Lista.dll
+C:\Users\Xtreme Gamer\projetos\arrya-e-listas\Arraya_e_Lista\obj\Debug\net7.0\Arraya_e_Lista.pdb
+C:\Users\Xtreme Gamer\projetos\arrya-e-listas\Arraya_e_Lista\obj\Debug\net7.0\ref\Arraya_e_Lista.dll
+C:\Users\Xtreme Gamer\projetos\arrya-e-listas\Arraya_e_Lista\bin\Debug\net7.0\Arraya_e_Lista.exe
+C:\Users\Xtreme Gamer\projetos\arrya-e-listas\Arraya_e_Lista\bin\Debug\net7.0\Arraya_e_Lista.runtimeconfig.json
+C:\Users\Xtreme Gamer\projetos\arrya-e-listas\Arraya_e_Lista\obj\Debug\net7.0\Arraya_e_Lista.genruntimeconfig.cache
